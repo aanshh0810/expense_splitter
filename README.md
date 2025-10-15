@@ -48,11 +48,6 @@ See [TEST_PLAN.md](./TEST_PLAN.md) and run `npm test`
 - 100% coverage of core algorithm
 - Realistic test scenarios
 
-### 5. Interview Presentation Guide ✅
-See [INTERVIEW_PRESENTATION_GUIDE.md](./INTERVIEW_PRESENTATION_GUIDE.md)
-- 30-minute structured demo flow
-- Common Q&A responses
-- Pre-interview checklist
 
 ## 🏗️ Technology Stack
 
