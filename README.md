@@ -11,10 +11,6 @@ npm install
 # Start development server
 npm run dev
 
-
-
-
-
 ## ✨ Core Features
 
 1. **Group Creation** - Create expense groups with multiple members
